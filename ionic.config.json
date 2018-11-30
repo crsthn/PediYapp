@@ -1,0 +1,7 @@
+{
+  "name": "PediYapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
